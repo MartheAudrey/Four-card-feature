@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git Repository](https://github.com/MartheAudrey/Four-card-feature.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Four card - Visit](https://four-card-feature-silk-rho.vercel.app/)
 
 ## My process
 
@@ -44,21 +44,19 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-
 ### What I learned
 
 I learned how to give to all my flex elements the same width using the flex property.
 
 ```css
-.layout-grid > *{
-    flex: 1;
+.layout-grid > * {
+  flex: 1;
 }
 ```
 
 ### Continued development
 
 I would like to continue to learn CSS, how to write sustainable CSS code and good practices.
-
 
 ### Useful resources
 
